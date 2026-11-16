@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# kết quả sinh ra khi chạy: tự tạo lại bằng chay_demo.py
+ket_qua/*
+!ket_qua/.gitkeep
+
+# dữ liệu: file gốc UCI và dữ liệu giả không cần commit.
+# data/ban_hang_theo_ngay.csv (file đã chuẩn bị, nhỏ) NÊN commit để cả nhóm dùng chung dữ liệu.
+data/*.xlsx
+data/ban_hang_gia.csv

@@ -1,0 +1,7 @@
+numpy>=1.22
+pandas>=1.5
+scikit-learn>=1.0
+matplotlib>=3.5
+
+# Chỉ cần nếu đọc file Excel gốc của UCI (chuan_bi_du_lieu_uci.py "Online Retail.xlsx"):
+# openpyxl>=3.0
